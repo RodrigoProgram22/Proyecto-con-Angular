@@ -12,3 +12,6 @@
   align-items: center;
   justify-content: space-between;
 }
+.iconEliminar {
+  color: red;
+}
