@@ -8,27 +8,27 @@
     },
     {
       "id": 2,
-      "text": "Hacer las compras para la cena",
-      "day": "Agosto 5 a las 17:00",
+      "text": "Terminar bootstrap",
+      "day": "Agosto 12 a las 12:00 pm",
       "reminder": true
     },
     {
       "id": 3,
-      "text": "Investigar sobre Bootstrap",
-      "day": "Agosto 5 a las 19:00",
-      "reminder": false
+      "text": "Jugar videojuegos",
+      "day": "Mayo 8 a las 00:00 am",
+      "reminder": true
     },
     {
       "id": 4,
-      "text": "Leer mi libro favorito",
-      "day": "Agosto 6 a las 21:00",
-      "reminder": false
+      "text": "Hacer deporte",
+      "day": "Nunca",
+      "reminder": true
     },
     {
       "id": 5,
-      "text": "Ir a entrenar",
-      "day": "Agosto 8 a las 8:00",
-      "reminder": false
+      "text": "Cocinar Pizza",
+      "day": "Julio 23 a las 12:00 pm",
+      "reminder": true
     }
   ]
 }

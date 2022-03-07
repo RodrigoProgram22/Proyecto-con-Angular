@@ -1,7 +1,11 @@
 <div class="task">
   <h3>
     {{ task.text }}
-    <fa-icon class="iconEliminar" [icon]="faTimes"></fa-icon>
+    <fa-icon
+      class="iconEliminar"
+      [icon]="faTimes"
+      (click)="onDelete(task)"
+    ></fa-icon>
   </h3>
   <p>{{ task.day }}</p>
 </div>
