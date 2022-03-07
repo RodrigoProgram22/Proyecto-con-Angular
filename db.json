@@ -29,6 +29,18 @@
       "text": "Cocinar Pizza",
       "day": "Julio 23 a las 12:00 pm",
       "reminder": true
+    },
+    {
+      "text": "Pasear el perro",
+      "day": "Mañana al mediodia",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Comer Pizza con Jamon",
+      "day": "Hoy a la noche",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
