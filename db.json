@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Terminar bootstrap",
       "day": "Agosto 12 a las 12:00 pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
@@ -22,18 +22,18 @@
       "id": 4,
       "text": "Hacer deporte",
       "day": "Nunca",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 5,
       "text": "Cocinar Pizza",
       "day": "Julio 23 a las 12:00 pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Pasear el perro",
       "day": "Mañana al mediodia",
-      "reminder": true,
+      "reminder": false,
       "id": 6
     },
     {
